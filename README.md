@@ -1,6 +1,6 @@
 <h1>A technology blog system project</h1>
 
-<p>Live demo: <a href="https://tech-blog-ardes.000webhostapp.com" target="_blank"></a></p>
+<p>Live demo: https://tech-blog-ardes.000webhostapp.com</p>
 
 <h3>System overview:</h3>
 <ul>
