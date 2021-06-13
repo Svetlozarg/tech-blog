@@ -6,6 +6,7 @@
 <ul>
   <li>Login</li>
   <li>Register</li>
+  <li>Roles for users and admins</li>
   <li>Welcome page showing the first 9 latest articles</li>
   <li>Blog page with all articles with search bar and filter</li>
   <li>Add article option</li>
