@@ -17,9 +17,9 @@
 
 <h3>How to run the project</h3>
 <ol>
+  <li>Download the project</li>
   <li>The database sql dump is provided in db/tech-blog 23.02.25.sql</li>
   <li>Change the credentials for the database in db/config.php</li>
-  <li>Download the project</li>
   <li>cd tech-blog</li>
   <li>php -S localhost:PORT</li>
 <ol>
