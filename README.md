@@ -12,7 +12,7 @@
   <li>Add article option</li>
   <li>Edit article option</li>
   <li>Comments and replies system with delete option</li>
-  <li>Admin dashboard with database overview, option for managing articles (edit and delete) and users (make roles user or admin and ban or unban).</li>
+  <li>Admin dashboard with database overview, option for managing articles (edit and delete) and users (change role user or admin and ban or unban).</li>
 </ul>
 
 <h3>How to run the project</h3>
